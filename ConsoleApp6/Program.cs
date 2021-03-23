@@ -11,7 +11,7 @@ namespace ConsoleApp6
         static void Main(string[] args)
         {
             Console.WriteLine("ABCD");
-            Console.WriteLine( "hello" )
+            Console.WriteLine("hello");
                 Console.WriteLine("world"  )
                 Console.WriteLine("world")
 
